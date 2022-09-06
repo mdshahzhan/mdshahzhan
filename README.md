@@ -1,4 +1,4 @@
-![Web Developer](https://scontent.fcgp3-2.fna.fbcdn.net/v/t39.30808-6/260824187_1325896914531846_1611307551061698924_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=DACyPqLscSYAX9G_KzV&_nc_ht=scontent.fcgp3-2.fna&oh=00_AT-JlVXPoUJyiHgGWk_0rJtxlYNrGUml1BRz8R8IKQQCFQ&oe=631B9AAF style="width:150px;")
+![Web Developer](https://scontent.fcgp3-2.fna.fbcdn.net/v/t39.30808-6/260824187_1325896914531846_1611307551061698924_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=DACyPqLscSYAX9G_KzV&_nc_ht=scontent.fcgp3-2.fna&oh=00_AT-JlVXPoUJyiHgGWk_0rJtxlYNrGUml1BRz8R8IKQQCFQ&oe=631B9AAF)
 
 
 ### Hi there 👋, I'm Shajahan
