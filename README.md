@@ -1,9 +1,6 @@
-![Web Developer](https://scontent.fcgp3-2.fna.fbcdn.net/v/t39.30808-6/260824187_1325896914531846_1611307551061698924_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=DACyPqLscSYAX9G_KzV&_nc_ht=scontent.fcgp3-2.fna&oh=00_AT-JlVXPoUJyiHgGWk_0rJtxlYNrGUml1BRz8R8IKQQCFQ&oe=631B9AAF)
-
-
 ### Hi there 👋, I'm Shajahan
 #### Web Developer
-
+![Web Developer](https://scontent.fcgp3-1.fna.fbcdn.net/v/t39.30808-6/301834597_1515064235615112_7813742243344737132_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=ab6a21&_nc_ohc=nR-rK7-tb38AX9a8kfQ&tn=6C2xHWmrAfMjaF9q&_nc_ht=scontent.fcgp3-1.fna&oh=00_AT-yHaWBWNcqQACo86cfIsIA9FHcXWu9Zi6dGVPkKNFj6Q&oe=631BFE2B)
 
 I'm a Front End Web Developer who is passionate about making error - Free Web sites With 100% Client Satisfaction. I have a passion for learning and Sharing my knowledge With others as publicly as possible . I Love to Solve real - World problems . I am strategic goal - oriented , and always work with an end goal in mind over the past years ,  I created 100s of websites for my Client's . I pride my self on doing qualufy work and maintain excellent communication .Most of the time I work with wordpress but some technologies I enjoy working with include React js , javaScript as well as C.
 
